@@ -1,5 +1,8 @@
 # Data Collection System Development
 
+Hello, I'm korean and junior software engineer.
+I'm working at IT public enterprise and managing web-based system.
+
 Today, there are lots of data collection systems.
 And it actually takes a great role in many of modern system.
 I can sure that the usage of data collection system will be permenant. 
@@ -11,3 +14,5 @@ I will develop this system with considering availability, reliability, dependabi
 
 Over this project, my ultimate goal is making individual much more easy to develop their own system,
 even though they don't have great skill and experience.
+
+My english language skill is not that good. Thank you for understanding me.
